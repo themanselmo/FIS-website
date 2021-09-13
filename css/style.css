@@ -1,3 +1,15 @@
 body {
-    background:blanchedalmond;
+    background: #B9B7BD;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+#project-cont {
+    text-align: center;
+}
+
+#project-cont p {
+    color: cadetblue;
+    
 }
