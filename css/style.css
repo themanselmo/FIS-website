@@ -3,7 +3,9 @@ body {
     margin: auto;
     text-align: center;
     padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
 
 #project-cont {
     text-align: center;
@@ -12,4 +14,12 @@ body {
 #project-cont p {
     color: cadetblue;
     
+}
+
+nav a{
+    padding: 10px;
+}
+
+#pic-me {
+    width: 40%;
 }
